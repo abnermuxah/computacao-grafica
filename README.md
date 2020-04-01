@@ -1,2 +1,12 @@
-# computacao-grafica
-Transformacoes no dominio espacial
+<p><strong>Este e um trabalho da faculdade de introducao a filtragem no dominio espacial escrito em C, manipula&ccedil;&atilde;o pixel a pixel.</strong></p>
+<p>Est&aacute; escrito os seguintes algoritmos:&nbsp;<br />leitura-escrita de arquivo .ppm (escala de cinza)<br />leitura-escrita de arquivo .pgm<br /><br /><strong>a partir dessa leitura e escrita da para implementar os seguintes algoritmos:</strong></p>
+<p><br />Binarizacao<br />Negativo<br />Transformar colorido para monocromatico<br />mutiplicacao por escalar<br />divisao por escalar<br />adicao por escalar<br />subtracao por escalar<br />histograma<br />equalizacao do histograma<br />limiarizacao<br />operacoes logicas (and, or, e not) obs: isso so de aplica a imagens binarias<br />adicao de ruido (sal e pimenta)<br />adicao de ruido (gauss)<br />alargamento de contraste<br />fatiamento<br /><br />Transformacoes geometricas<br />zoom (in)<br />zoom (out)<br />escala<br />translacao<br />rotacao<br />espelhamento</p>
+<p><br /><span style="color: #800000;"><strong>&eacute; importante destacar que alguns arquivos implementados em C podem apresentar problema, mas a maioria esta funcionando. Mas o que fiz esta livre para usar adptar e melhorar. Fiquem avontade</strong></span></p>
+<p><span style="color: #800000;"><strong><br /><span style="color: #000000;">English Version:</span></strong></span></p>
+<p>&nbsp;</p>
+<p>This is a work of the faculty of introduction to filtering in the spatial domain written in C, manipulation pixel by pixel.</p>
+<p>The following algorithms are written:<br />read-write .ppm file (gray scale)<br />read-write .pgm file</p>
+<p>from that reading and writing to implement the following algorithms:</p>
+<p><br />Binarization<br />Negative<br />Transform color to monochromatic<br />scalar multiplication<br />division for climbing<br />add by scale<br />subtraction by scale<br />histogram<br />histogram equalization<br />threshold<br />logical operations (and, or, and not) note: this only applies to binary images<br />noise addition (salt and pepper)<br />noise addition (gauss)<br />contrast enlargement<br />slicing</p>
+<p>Geometric transformations<br />zoom (in)<br />zoom (out)<br />scale<br />translation<br />rotation<br />mirroring</p>
+<p><br />it is important to highlight that some files implemented in C can present a problem, but most are working. But what I did is free to use adapt and improve. Feel free</p>
